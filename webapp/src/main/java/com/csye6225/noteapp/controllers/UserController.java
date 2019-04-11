@@ -509,7 +509,7 @@ public class UserController {
         return j.toString();
     }
 
-    @PostMapping(value = "/reset", produces = "application/json")
+    @PostMapping(value = "/pwdreset", produces = "application/json")
     public String generateResetToken(@RequestBody Email email, HttpServletRequest request,
             HttpServletResponse response) {
 
