@@ -30,8 +30,8 @@
             <stringProp name="1379103678">serverId</stringProp>
           </collectionProp>
           <collectionProp name="UserParameters.thread_values">
-            <collectionProp name="67150805">
-              <stringProp name="1791985542">csye6225-spring2019-ankita.me</stringProp>
+            <collectionProp name="424201089">
+              <stringProp name="-84908233">csye6225-spring2019-sharmanil.me</stringProp>
             </collectionProp>
           </collectionProp>
           <boolProp name="UserParameters.per_iteration">false</boolProp>
@@ -113,7 +113,7 @@
           </HeaderManager>
           <hashTree/>
           <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
-            <stringProp name="filename">/home/abhinn/Documents/cloud_computing/csye6225-spring2019/jmeter/User1.csv</stringProp>
+            <stringProp name="filename">/home/nilank23/Desktop/User1.csv</stringProp>
             <stringProp name="fileEncoding"></stringProp>
             <stringProp name="variableNames">email,password</stringProp>
             <boolProp name="ignoreFirstLine">true</boolProp>
@@ -144,8 +144,8 @@
             <stringProp name="1379103678">serverId</stringProp>
           </collectionProp>
           <collectionProp name="UserParameters.thread_values">
-            <collectionProp name="67150805">
-              <stringProp name="1791985542">csye6225-spring2019-ankita.me</stringProp>
+            <collectionProp name="424201089">
+              <stringProp name="-84908233">csye6225-spring2019-sharmanil.me</stringProp>
             </collectionProp>
           </collectionProp>
           <boolProp name="UserParameters.per_iteration">false</boolProp>
@@ -223,7 +223,7 @@
           <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
             <stringProp name="delimiter">,</stringProp>
             <stringProp name="fileEncoding"></stringProp>
-            <stringProp name="filename">/home/abhinn/Documents/cloud_computing/csye6225-spring2019/jmeter/User1.csv</stringProp>
+            <stringProp name="filename">/home/nilank23/Desktop/User1.csv</stringProp>
             <boolProp name="ignoreFirstLine">true</boolProp>
             <boolProp name="quotedData">false</boolProp>
             <boolProp name="recycle">true</boolProp>
@@ -507,8 +507,8 @@
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Create attchment in Note" enabled="true">
           <elementProp name="HTTPsampler.Files" elementType="HTTPFileArgs">
             <collectionProp name="HTTPFileArgs.files">
-              <elementProp name="/home/abhinn/temp.jpg" elementType="HTTPFileArg">
-                <stringProp name="File.path">/home/abhinn/temp.jpg</stringProp>
+              <elementProp name="/home/nilank23/Desktop/test.jpg" elementType="HTTPFileArg">
+                <stringProp name="File.path">/home/nilank23/Desktop/test.jpg</stringProp>
                 <stringProp name="File.paramname">file</stringProp>
                 <stringProp name="File.mimetype">image/jpeg</stringProp>
               </elementProp>
@@ -588,8 +588,8 @@
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Update attchment in note" enabled="true">
           <elementProp name="HTTPsampler.Files" elementType="HTTPFileArgs">
             <collectionProp name="HTTPFileArgs.files">
-              <elementProp name="/home/abhinn/temp2.jpg" elementType="HTTPFileArg">
-                <stringProp name="File.path">/home/abhinn/temp2.jpg</stringProp>
+              <elementProp name="/home/nilank23/Desktop/test.jpg" elementType="HTTPFileArg">
+                <stringProp name="File.path">/home/nilank23/Desktop/test.jpg</stringProp>
                 <stringProp name="File.paramname">file</stringProp>
                 <stringProp name="File.mimetype">image/jpeg</stringProp>
               </elementProp>
@@ -727,7 +727,7 @@
           <hashTree/>
         </hashTree>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
-          <stringProp name="filename">/home/abhinn/Documents/cloud_computing/csye6225-spring2019/jmeter/User1.csv</stringProp>
+          <stringProp name="filename">/home/nilank23/Desktop/User1.csv</stringProp>
           <stringProp name="fileEncoding"></stringProp>
           <stringProp name="variableNames">email,password</stringProp>
           <boolProp name="ignoreFirstLine">true</boolProp>
